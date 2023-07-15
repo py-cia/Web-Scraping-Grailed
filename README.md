@@ -1,5 +1,4 @@
 # Web-Scraping-Grailed
-## Introduction
 Grailed is an online marketplace where people come together to buy and sell clothes. There are many brands listed on this site, but the focus of this project 
 is on Reese Cooper, my favorite clothing brand.
 
